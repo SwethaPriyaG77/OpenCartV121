@@ -1,0 +1,112 @@
+2024-08-27 07:05:07 INFO  TC_001_AccountRegistrationTest:42 - Test passed
+2024-08-27 07:05:07 INFO  TC_001_AccountRegistrationTest:42 - Test passed
+2024-08-27 07:05:07 INFO  TC_001_AccountRegistrationTest:50 - ***** Executed TC001_AccountRegistrationTest *****
+2024-08-27 07:05:07 INFO  TC_001_AccountRegistrationTest:50 - ***** Executed TC001_AccountRegistrationTest *****
+2024-08-27 07:14:47 INFO  Utils:112 - [TestNG] Running:
+  D:\Selenium\webdriver\Opencart\OpenCartV121\master.xml
+
+2024-08-27 07:14:50 INFO  TC_001_AccountRegistrationTest:18 - ********Starting TC_001_AccountRegistrationTest***********
+2024-08-27 07:14:51 INFO  TC_001_AccountRegistrationTest:22 - Clicked on MyAccount Link
+2024-08-27 07:14:51 INFO  TC_001_AccountRegistrationTest:24 - Clicked on Register Link
+2024-08-27 07:14:51 INFO  TC_001_AccountRegistrationTest:26 - Providing customer details...
+2024-08-27 07:14:53 INFO  TC_001_AccountRegistrationTest:39 - Validating expected message..
+2024-08-27 07:14:53 INFO  TC_001_AccountRegistrationTest:42 - Test passed
+2024-08-27 07:14:53 INFO  TC_001_AccountRegistrationTest:50 - ***** Executed TC001_AccountRegistrationTest *****
+2024-08-27 07:15:23 INFO  Utils:112 - [TestNG] Running:
+  D:\Selenium\webdriver\Opencart\OpenCartV121\master.xml
+
+2024-08-27 07:15:26 INFO  TC_001_AccountRegistrationTest:18 - ********Starting TC_001_AccountRegistrationTest***********
+2024-08-27 07:15:27 INFO  TC_001_AccountRegistrationTest:22 - Clicked on MyAccount Link
+2024-08-27 07:15:28 INFO  TC_001_AccountRegistrationTest:24 - Clicked on Register Link
+2024-08-27 07:15:28 INFO  TC_001_AccountRegistrationTest:26 - Providing customer details...
+2024-08-27 07:15:29 INFO  TC_001_AccountRegistrationTest:39 - Validating expected message..
+2024-08-27 07:15:29 INFO  TC_001_AccountRegistrationTest:42 - Test passed
+2024-08-27 07:15:29 INFO  TC_001_AccountRegistrationTest:50 - ***** Executed TC001_AccountRegistrationTest *****
+2024-08-27 10:14:02 INFO  Utils:112 - [TestNG] Running:
+  D:\Selenium\webdriver\Opencart\OpenCartV121\master.xml
+
+2024-08-27 10:14:13 INFO  TC_002_LoginTest:19 - ******Starting TC_002_LoginTest*****
+2024-08-27 10:14:13 INFO  TC_002_LoginTest:24 - Clicked on MyAccount Link
+2024-08-27 10:14:13 INFO  TC_002_LoginTest:26 - Clicked on Login Link
+2024-08-27 10:14:13 INFO  TC_002_LoginTest:30 - Entering the valid Details
+2024-08-27 10:14:14 INFO  TC_002_LoginTest:35 - Validating My Account Page
+2024-08-27 10:14:14 INFO  TC_002_LoginTest:47 - ******Executed TC_002_LoginTest*****
+2024-08-27 11:39:43 INFO  Utils:112 - [TestNG] Running:
+  D:\Selenium\webdriver\Opencart\OpenCartV121\master.xml
+
+2024-08-27 11:39:54 INFO  TC_003_LoginDDT:15 - ************ Starting TC_003_LoginDDT*********
+2024-08-27 11:39:55 INFO  TC_003_LoginDDT:66 - ************ Executed TC_003_LoginDDT*********
+2024-08-27 11:39:55 INFO  TC_003_LoginDDT:15 - ************ Starting TC_003_LoginDDT*********
+2024-08-27 11:39:57 INFO  TC_003_LoginDDT:15 - ************ Starting TC_003_LoginDDT*********
+2024-08-27 11:39:59 INFO  TC_003_LoginDDT:15 - ************ Starting TC_003_LoginDDT*********
+2024-08-27 11:40:11 INFO  TC_003_LoginDDT:66 - ************ Executed TC_003_LoginDDT*********
+2024-08-27 11:40:11 INFO  TC_003_LoginDDT:15 - ************ Starting TC_003_LoginDDT*********
+2024-08-27 11:40:13 INFO  TC_003_LoginDDT:66 - ************ Executed TC_003_LoginDDT*********
+2024-08-27 12:25:24 INFO  Utils:112 - [TestNG] Running:
+  D:\Selenium\webdriver\Opencart\OpenCartV121\grouping.xml
+
+2024-08-27 12:25:28 INFO  TC_001_AccountRegistrationTest:18 - ********Starting TC_001_AccountRegistrationTest***********
+2024-08-27 12:25:29 INFO  TC_001_AccountRegistrationTest:22 - Clicked on MyAccount Link
+2024-08-27 12:25:29 INFO  TC_001_AccountRegistrationTest:24 - Clicked on Register Link
+2024-08-27 12:25:29 INFO  TC_001_AccountRegistrationTest:26 - Providing customer details...
+2024-08-27 12:25:31 INFO  TC_001_AccountRegistrationTest:39 - Validating expected message..
+2024-08-27 12:25:31 INFO  TC_001_AccountRegistrationTest:42 - Test passed
+2024-08-27 12:25:31 INFO  TC_001_AccountRegistrationTest:50 - ***** Executed TC001_AccountRegistrationTest *****
+2024-08-27 12:25:34 INFO  TC_002_LoginTest:19 - ******Starting TC_002_LoginTest*****
+2024-08-27 12:25:35 INFO  TC_002_LoginTest:24 - Clicked on MyAccount Link
+2024-08-27 12:25:35 INFO  TC_002_LoginTest:26 - Clicked on Login Link
+2024-08-27 12:25:35 INFO  TC_002_LoginTest:30 - Entering the valid Details
+2024-08-27 12:25:36 INFO  TC_002_LoginTest:35 - Validating My Account Page
+2024-08-27 12:25:36 INFO  TC_002_LoginTest:47 - ******Executed TC_002_LoginTest*****
+2024-08-27 13:23:46 INFO  Utils:112 - [TestNG] Running:
+  D:\Selenium\webdriver\Opencart\OpenCartV121\grouping.xml
+
+2024-08-27 13:23:56 INFO  TC_001_AccountRegistrationTest:18 - ********Starting TC_001_AccountRegistrationTest***********
+2024-08-27 13:23:56 INFO  TC_001_AccountRegistrationTest:22 - Clicked on MyAccount Link
+2024-08-27 13:23:57 INFO  TC_001_AccountRegistrationTest:24 - Clicked on Register Link
+2024-08-27 13:23:57 INFO  TC_001_AccountRegistrationTest:26 - Providing customer details...
+2024-08-27 13:23:59 INFO  TC_001_AccountRegistrationTest:39 - Validating expected message..
+2024-08-27 13:23:59 INFO  TC_001_AccountRegistrationTest:42 - Test passed
+2024-08-27 13:23:59 INFO  TC_001_AccountRegistrationTest:50 - ***** Executed TC001_AccountRegistrationTest *****
+2024-08-27 13:24:05 INFO  TC_002_LoginTest:19 - ******Starting TC_002_LoginTest*****
+2024-08-27 13:24:05 INFO  TC_002_LoginTest:24 - Clicked on MyAccount Link
+2024-08-27 13:24:05 INFO  TC_002_LoginTest:26 - Clicked on Login Link
+2024-08-27 13:24:05 INFO  TC_002_LoginTest:30 - Entering the valid Details
+2024-08-27 13:24:06 INFO  TC_002_LoginTest:35 - Validating My Account Page
+2024-08-27 13:24:06 INFO  TC_002_LoginTest:47 - ******Executed TC_002_LoginTest*****
+2024-08-27 13:27:30 INFO  Utils:112 - [TestNG] Running:
+  D:\Selenium\webdriver\Opencart\OpenCartV121\grouping.xml
+
+2024-08-27 13:27:33 INFO  TC_001_AccountRegistrationTest:18 - ********Starting TC_001_AccountRegistrationTest***********
+2024-08-27 13:27:33 INFO  TC_001_AccountRegistrationTest:22 - Clicked on MyAccount Link
+2024-08-27 13:27:34 INFO  TC_001_AccountRegistrationTest:24 - Clicked on Register Link
+2024-08-27 13:27:34 INFO  TC_001_AccountRegistrationTest:26 - Providing customer details...
+2024-08-27 13:27:35 INFO  TC_001_AccountRegistrationTest:39 - Validating expected message..
+2024-08-27 13:27:35 INFO  TC_001_AccountRegistrationTest:42 - Test passed
+2024-08-27 13:27:35 INFO  TC_001_AccountRegistrationTest:50 - ***** Executed TC001_AccountRegistrationTest *****
+2024-08-27 13:27:38 INFO  TC_002_LoginTest:19 - ******Starting TC_002_LoginTest*****
+2024-08-27 13:27:38 INFO  TC_002_LoginTest:24 - Clicked on MyAccount Link
+2024-08-27 13:27:39 INFO  TC_002_LoginTest:26 - Clicked on Login Link
+2024-08-27 13:27:39 INFO  TC_002_LoginTest:30 - Entering the valid Details
+2024-08-27 13:27:40 INFO  TC_002_LoginTest:35 - Validating My Account Page
+2024-08-27 14:48:03 INFO  TC_003_LoginDDT:15 - ************ Starting TC_003_LoginDDT*********
+2024-08-27 14:48:05 INFO  TC_003_LoginDDT:66 - ************ Executed TC_003_LoginDDT*********
+2024-08-27 14:48:05 INFO  TC_003_LoginDDT:15 - ************ Starting TC_003_LoginDDT*********
+2024-08-27 14:48:07 INFO  TC_003_LoginDDT:15 - ************ Starting TC_003_LoginDDT*********
+2024-08-27 14:48:08 INFO  TC_003_LoginDDT:15 - ************ Starting TC_003_LoginDDT*********
+2024-08-27 14:48:19 INFO  TC_003_LoginDDT:66 - ************ Executed TC_003_LoginDDT*********
+2024-08-27 14:48:19 INFO  TC_003_LoginDDT:15 - ************ Starting TC_003_LoginDDT*********
+2024-08-27 14:48:21 INFO  TC_003_LoginDDT:66 - ************ Executed TC_003_LoginDDT*********
+2024-08-27 14:50:19 INFO  TC_001_AccountRegistrationTest:18 - ********Starting TC_001_AccountRegistrationTest***********
+2024-08-27 14:50:19 INFO  TC_001_AccountRegistrationTest:22 - Clicked on MyAccount Link
+2024-08-27 14:50:20 INFO  TC_001_AccountRegistrationTest:24 - Clicked on Register Link
+2024-08-27 14:50:20 INFO  TC_001_AccountRegistrationTest:26 - Providing customer details...
+2024-08-27 14:50:21 INFO  TC_001_AccountRegistrationTest:39 - Validating expected message..
+2024-08-27 14:50:21 INFO  TC_001_AccountRegistrationTest:42 - Test passed
+2024-08-27 14:50:21 INFO  TC_001_AccountRegistrationTest:50 - ***** Executed TC001_AccountRegistrationTest *****
+2024-08-27 14:50:24 INFO  TC_002_LoginTest:19 - ******Starting TC_002_LoginTest*****
+2024-08-27 14:50:24 INFO  TC_002_LoginTest:24 - Clicked on MyAccount Link
+2024-08-27 14:50:25 INFO  TC_002_LoginTest:26 - Clicked on Login Link
+2024-08-27 14:50:25 INFO  TC_002_LoginTest:30 - Entering the valid Details
+2024-08-27 14:50:26 INFO  TC_002_LoginTest:35 - Validating My Account Page
+2024-08-27 14:50:26 INFO  TC_002_LoginTest:47 - ******Executed TC_002_LoginTest*****
